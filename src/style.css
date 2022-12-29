@@ -1,13 +1,10 @@
 /* styles go here */
 .inputs {
-  margin: 10px;
+  display: block;
+  margin-bottom: 10px;
 }
 
 .groups {
-  padding: 0;
-  margin: 5px 0 20px;
-}
-
-legend {
-  margin: 0 10px;
+  display: block;
+  margin-bottom: 20px;
 }
